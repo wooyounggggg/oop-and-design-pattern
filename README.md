@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/19742896/149649771-78131839-c6f2-4e8a-af2f-5fd373876302.png)
 
 ## 개요
-객체 지향 & 디자인 패턴 이론 및 실습 정리
+객체 지향 & 디자인 패턴 이론 및 실습 [정리](https://github.com/wooyounggggg/oop-and-design-pattern/issues?q=is%3Aissue+is%3Aclosed)
 
 ## 일정
 |Date|Page|Completion|
