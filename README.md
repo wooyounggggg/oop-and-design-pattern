@@ -5,7 +5,7 @@
 객체 지향 & 디자인 패턴 이론 및 실습 [정리](https://github.com/wooyounggggg/oop-and-design-pattern/issues?q=is%3Aissue+is%3Aclosed)
 
 ## 후기
-[[후기] 개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴](https://souljit2.tistory.com/76)
+[개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 후기](https://souljit2.tistory.com/76)
 
 ## 일정
 |Date|Page|Completion|
